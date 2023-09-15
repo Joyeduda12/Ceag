@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1>dicas de beleza joy e Duda </h1>
+   <p>vamos te ajudar e orientar a como cuidar de si mesma(o)!  </p>
+   <p></p>
+   <h2>te ajudar a se/h2>
+
+</body>
+</html>
+
