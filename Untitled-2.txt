@@ -9,7 +9,8 @@
    <h1>dicas de beleza joy e Duda </h1>
    <p>vamos te ajudar e orientar a como cuidar de si mesma(o)!  </p>
    <p></p>
-   <h2>te ajudar a se/h2>
+   <h2>te ajudar a ser a sua melhor versão!/h2>
+<p>mostrar a como romantizar a vida de um jeito saúdavel</p> 
 
 </body>
 </html>
